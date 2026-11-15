@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jira Release Evidence Agent
 
 A tool-using AI agent (Google Gemini function calling) that decides, requirement by requirement, whether the evidence **recorded in Jira**
@@ -98,3 +99,6 @@ rra/mock_jira.py    offline Jira mock
 tests/              pytest suite + expected_decisions.json (regression oracle, never read by the agent)
 docs/DESIGN.md      design choices, limits, AI-assistance note
 ```
+=======
+# jira-release-agent
+>>>>>>> 001945fe80db11e33633884a1676b9e63e7ba618
